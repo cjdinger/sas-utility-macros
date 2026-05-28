@@ -3,8 +3,6 @@
   %sysevalf(%superq(param)=,boolean)
 %mend;
 
-/* New Comment */
-
 /* We need this function for large file uploads, to telegraph */
 /* the file size in the API.                                   */
 /* Get the file size of a local file in bytes.                */
