@@ -5,6 +5,8 @@
 
 /* Let's add a comment here */
 
+/* And another comment for fun */
+
 /* We need this function for large file uploads, to telegraph */
 /* the file size in the API.                                   */
 /* Get the file size of a local file in bytes.                */
